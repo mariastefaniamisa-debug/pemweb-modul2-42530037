@@ -159,7 +159,7 @@ Form memiliki empat input dengan tipe berbeda: teks (judul, penulis), angka (tah
 
 **Beranda**
 
-![Beranda](docs/screenshots/09-beranda.png)
+![Beranda](docs/screenshots/09-Beranda.png)
 
 **Tentang Kami**
 
@@ -167,7 +167,7 @@ Form memiliki empat input dengan tipe berbeda: teks (judul, penulis), angka (tah
 
 **Katalog Buku**
 
-![Katalog](docs/screenshots/11-katalog.png)
+![Katalog](docs/screenshots/11-katalog.jpeg)
 
 **Form Tambah Buku**
 
@@ -179,7 +179,7 @@ Form memiliki empat input dengan tipe berbeda: teks (judul, penulis), angka (tah
 
 **Katalog setelah buku baru ditambahkan**
 
-![Katalog setelah tambah](docs/screenshots/14-katalog-setelah-tambah.png)
+![Katalog setelah tambah](docs/screenshots/14-katalog-setelah-tambah.jpeg)
 
 ### 5.6 Estetika
 
