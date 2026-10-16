@@ -126,6 +126,7 @@
 ### 5.1 Deskripsi
 
 Aplikasi web multi-halaman bertema **Katalog Perpustakaan**, dibangun dari nol di direktori proyek terpisah (`perpustakaan-mvc`) dengan pola MVC. Data buku disimulasikan memakai array objek di controller.
+Kode lengkap Tugas 2: https://github.com/mariastefaniamisa-debug/pemweb-tugas2-42530037
 
 ### 5.2 Struktur Direktori
 
