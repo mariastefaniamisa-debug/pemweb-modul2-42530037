@@ -1,0 +1,13 @@
+<%- include('../partials/header', { pageTitle: 'Beranda Aplikasi' }) %>
+
+<div class="card">
+    <h1>Halo, <%= userName %>!</h1>
+    <p>Ini adalah array yang dirender dengan loop EJS:</p>
+    <ul>
+    <% fiturList.forEach(fitur => { %>
+        <li><strong><%= fitur %></strong></li>
+    <% }) %>
+    </ul>
+</div>
+
+<%- include('../partials/footer') %>
